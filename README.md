@@ -2,6 +2,8 @@
 
 [InspirerandePortfolioSajter](https://dev.to/ruppysuppy/7-developer-portfolio-for-inspiration-4no7)
 
+[LoopÖvningar](https://www.freecodecamp.org/news/how-to-loop-through-an-array-in-javascript-js-iterate-tutorial/)
+
 
 ## Dagens övningar!
 
